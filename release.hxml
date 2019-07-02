@@ -1,0 +1,9 @@
+-main Axil
+-lib nme
+-lib box2d
+-lib hxcpp
+-cp android/haxe
+-cpp bin
+--remap flash:nme
+-D android
+
