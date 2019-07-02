@@ -1,0 +1,12 @@
+--------Axil Troublshooting------------
+
+1) Music stops during game play - 
+One issue I have found is that sometimes the music stops abruptly. This happens because I have compressed the music files quite a bit and the game might sometimes have a problem loading them. This can fixed by either restarting the level (by pressing the back to menu key) or restarting the game. There should be no futher problem.
+
+2) Some images are displayed as question marks-
+This means that the image files are missing but, the other files are intact. You need to get those msiing images by uninstalling the game.
+
+3) The game displays the black screen and exits-
+This means that the game has crashed. This could be due to may reasons but the primary reason is that the game files were corrupted. Maybe the music or picture files or the dynamic libraries in the root libraries. The only way to play the game is to somehow restore these file back.You should reinstall the game.
+
+If you have anyother problems please email at bharath.rn@gmail.com
